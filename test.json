@@ -1,0 +1,16 @@
+[
+  {
+    "picture": "https://example.com/school1-image.jpg",
+    "name": "School 1",
+    "address": "123 Main St, City, Country",
+    "type": "Private",
+    "level": "K-12"
+  },
+  {
+    "picture": "https://example.com/school2-image.jpg",
+    "name": "School 2",
+    "address": "456 Second St, City, Country",
+    "type": "Public",
+    "level": "University"
+  }
+]
